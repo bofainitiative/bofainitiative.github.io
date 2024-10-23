@@ -71,7 +71,7 @@ nav ul{
 }
 @media (max-width: 495px) {
   .logo {
-    margin-right: 5px;
+    display: none;
   }
 }
 @media (max-width: 399px) {
